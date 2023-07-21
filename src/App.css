@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.main{
+  width:60%;
+  margin:auto;
+}
+.socialMedia{
+  margin:auto;
+  padding:20px;
+}
+
+.socialMedia img{
+  width:150px;
+  margin:50px;
+}
