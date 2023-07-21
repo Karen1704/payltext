@@ -50,3 +50,12 @@
   width:150px;
   margin:50px;
 }
+
+.logo{
+  display:inline-flex;
+  margin:auto;
+}
+
+.logo img{
+  margin:20px;
+}
