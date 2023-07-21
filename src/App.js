@@ -27,6 +27,8 @@ function App() {
           <div className="socialMedia">
           <img src="./appStore.png"/>
           <img src="./playmarket.png"/>
+          <img src="./playmarket.png"/>
+          
           </div>
       </div>      
     </div>
