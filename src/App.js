@@ -3,9 +3,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <title>Փայլ</title>
+     
       <div className="logo">
-        <img src="./logo.png" />
+        <img src="./logo.png" alt="" />
       </div>
       
       <h2 className="">
@@ -30,8 +30,8 @@ function App() {
           Խնայում եք՝ ժամանակ, բնությունն ու գումար, իսկ խնայած գումարն ուղղում եք ձեր իսկ բարեկեցության բարձրացմանը։  
           </p>
           <div className="socialMedia">
-          <img src="./appStore.png"/>
-          <img src="./playmarket.png"/>
+          <img src="./appStore.png" alt=""/>
+          <img src="./playmarket.png" alt=""/>
 
 
           
